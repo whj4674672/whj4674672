@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: whj4674672@163.com
+
+![](https://github-readme-stats.vercel.app/api?username=whj4674672)
